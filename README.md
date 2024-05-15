@@ -13,7 +13,7 @@
 ### Embedder
 ![](https://img.shields.io/badge/Survey-orange) [A Comprehensive Survey of Sentence Representations: From the BERT Epoch to the ChatGPT Era and Beyond](https://arxiv.org/pdf/2305.12641)  
 2024.02 - Abhinav Ramesh Kashyap - ASUS Intelligent Cloud Services (AICS), Singapore  
-[paper] [C-Pack: Packed Resources For General Chinese Embeddings](https://arxiv.org/pdf/2309.07597)  
+![](https://img.shields.io/badge/Paper-pink)[C-Pack: Packed Resources For General Chinese Embeddings](https://arxiv.org/pdf/2309.07597)  
 2023.09 - Shitao Xiao - Beijing Academy of AI  
 
 ### Reranker
