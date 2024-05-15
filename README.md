@@ -1,10 +1,10 @@
 # NLP-Resource
 
 ## General NLP Packages
-![](https://img.shields.io/badge/github-blue) [SpaCy](https://spacy.io/)
-![](https://img.shields.io/badge/github-blue) [NITK](https://www.nltk.org/)
-![](https://img.shields.io/badge/github-blue) [TextBlob](https://textblob.readthedocs.io/en/dev/)
-![](https://img.shields.io/badge/github-blue) [Flair](https://github.com/flairNLP/flair)
+![](https://img.shields.io/badge/github-blue) [SpaCy](https://spacy.io/)  
+![](https://img.shields.io/badge/github-blue) [NITK](https://www.nltk.org/)  
+![](https://img.shields.io/badge/github-blue) [TextBlob](https://textblob.readthedocs.io/en/dev/)  
+![](https://img.shields.io/badge/github-blue) [Flair](https://github.com/flairNLP/flair)  
 
 ## RAG (Retrieval-Augmented Generation)
 ![](https://img.shields.io/badge/survey-orange)[survey][Large Language Models for Information Retrieval: A Survey](https://arxiv.org/pdf/2308.07107)  
