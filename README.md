@@ -21,10 +21,12 @@
 2024.03 - Carlos Lassance - Cohere
 
 ### Reranker
-![](https://img.shields.io/badge/paper-pink) [ColBERT: Efficient and Effective Passage Search via Contextualized Late Interaction over BERT](https://arxiv.org/pdf/2004.12832)  
-2020.04 - Omar Khattab - Stanford University  
+![](https://img.shields.io/badge/evaluation-yellow) [A Thorough Comparison of Cross-Encoders and LLMs for Reranking SPLADE](https://arxiv.org/pdf/2403.10407)  
+2024.03 - Hervé Déjean - Naver Labs Europe
 ![](https://img.shields.io/badge/paper-pink) [ColBERTv2: Effective and Efficient Retrieval via Lightweight Late Interaction](https://arxiv.org/pdf/2112.01488)  
 2021.12 - Keshav Santhanam - Stanford University
+![](https://img.shields.io/badge/paper-pink) [ColBERT: Efficient and Effective Passage Search via Contextualized Late Interaction over BERT](https://arxiv.org/pdf/2004.12832)  
+2020.04 - Omar Khattab - Stanford University  
 
 ![](https://img.shields.io/badge/github-blue) [uniem](https://github.com/wangyuxinwhy/uniem)  
 A repo includes codes of training a chinese reranker.  
