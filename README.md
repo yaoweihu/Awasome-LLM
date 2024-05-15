@@ -8,7 +8,8 @@
 
 ## RAG (Retrieval-Augmented Generation)
 ### Survey
-[Large Language Models for Information Retrieval: A Survey](https://arxiv.org/pdf/2308.07107) - 2023.08 - Zhuyu Tao - Renmin University of China
+[paper][Large Language Models for Information Retrieval: A Survey](https://arxiv.org/pdf/2308.07107) - 2023.08 - Zhuyu Tao - Renmin University of China
+
 
 ## Reranker
  - [uniem](https://github.com/wangyuxinwhy/uniem): A repo includes codes of training a chinese reranker.
