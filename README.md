@@ -15,6 +15,8 @@
 2024.02 - Abhinav Ramesh Kashyap - ASUS Intelligent Cloud Services (AICS), Singapore  
 ![](https://img.shields.io/badge/paper-pink) [C-Pack: Packed Resources For General Chinese Embeddings](https://arxiv.org/pdf/2309.07597)  
 2023.09 - Shitao Xiao - Beijing Academy of AI  
+![](https://img.shields.io/badge/paper-pink) [Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks](https://arxiv.org/pdf/1908.10084)  
+2019.08 - Nils Reimers - Technische Universitat Darmstadt
 
 ### Retriever
 ![](https://img.shields.io/badge/paper-pink) [SPLADE-v3: New baselines for SPLADE](https://arxiv.org/pdf/2403.06789)  
