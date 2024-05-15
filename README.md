@@ -7,11 +7,11 @@
 - [Flair](https://github.com/flairNLP/flair)
 
 ## RAG (Retrieval-Augmented Generation)
-- [survey] [Large Language Models for Information Retrieval: A Survey](https://arxiv.org/pdf/2308.07107)
+- [survey] [Large Language Models for Information Retrieval: A Survey](https://arxiv.org/pdf/2308.07107)  
   2023.08 - Zhuyu Tao - Renmin University of China
 
 ### Reranker
- - [paper] [ColBERT: Efficient and Effective Passage Search via Contextualized Late Interaction over BERT](https://arxiv.org/pdf/2004.12832)
+ - [paper] [ColBERT: Efficient and Effective Passage Search via Contextualized Late Interaction over BERT](https://arxiv.org/pdf/2004.12832)  
    2020.04 - Omar Khattab - Stanford University
   
  - [uniem](https://github.com/wangyuxinwhy/uniem): A repo includes codes of training a chinese reranker.
