@@ -7,7 +7,7 @@
 ![](https://img.shields.io/badge/github-blue) [Flair](https://github.com/flairNLP/flair)  
 
 ## RAG (Retrieval-Augmented Generation)
-![](https://img.shields.io/badge/survey-orange)[survey][Large Language Models for Information Retrieval: A Survey](https://arxiv.org/pdf/2308.07107)  
+![](https://img.shields.io/badge/survey-orange) [Large Language Models for Information Retrieval: A Survey](https://arxiv.org/pdf/2308.07107)  
   2023.08 - Zhuyu Tao - Renmin University of China
   
 ### Embedder
