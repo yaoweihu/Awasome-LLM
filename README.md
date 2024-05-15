@@ -16,6 +16,10 @@
 ![](https://img.shields.io/badge/paper-pink) [C-Pack: Packed Resources For General Chinese Embeddings](https://arxiv.org/pdf/2309.07597)  
 2023.09 - Shitao Xiao - Beijing Academy of AI  
 
+### Retriever
+![](https://img.shields.io/badge/paper-pink) [SPLADE-v3: New baselines for SPLADE](https://arxiv.org/pdf/2403.06789)  
+2024.03 - Carlos Lassance - Cohere
+
 ### Reranker
 ![](https://img.shields.io/badge/paper-pink) [ColBERT: Efficient and Effective Passage Search via Contextualized Late Interaction over BERT](https://arxiv.org/pdf/2004.12832)  
 2020.04 - Omar Khattab - Stanford University  
