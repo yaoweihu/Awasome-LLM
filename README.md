@@ -44,7 +44,7 @@ A repo includes unified codes for rerankers.
 ### UI Framewrok
 ![](https://img.shields.io/badge/github-blue) [Streamlit](https://docs.streamlit.io/)  
 ![](https://img.shields.io/badge/github-blue) [Gradio](https://www.gradio.app/docs)  
-![](https://img.shields.io/badge/github-blue) [ChainLit](https://docs.chainlit.io/get-started/overview) - Only Build a ChatGPT-like UI
+![](https://img.shields.io/badge/github-blue) [ChainLit](https://docs.chainlit.io/get-started/overview) - Build the ChatGPT-like UI
 
 ### VectorDB
 ![](https://img.shields.io/badge/document-purple) [ChromaDB](https://docs.trychroma.com/)    
