@@ -10,7 +10,7 @@
 ## RAG (Retrieval-Augmented Generation)
 ![](https://img.shields.io/badge/survey-orange) [Large Language Models for Information Retrieval: A Survey](https://arxiv.org/pdf/2308.07107)  
   2023.08 - Zhuyu Tao - Renmin University of China  
-![](https://img.shields.io/badge/blog-green) [Embedchain](https://github.com/embedchain/embedchain)  
+![](https://img.shields.io/badge/github-blue) [Embedchain](https://github.com/embedchain/embedchain)  
   
 ### Embedder
 ![](https://img.shields.io/badge/survey-orange) [A Comprehensive Survey of Sentence Representations: From the BERT Epoch to the ChatGPT Era and Beyond](https://arxiv.org/pdf/2305.12641)  
@@ -42,6 +42,6 @@ A repo includes unified codes for rerankers.
 ![](https://img.shields.io/badge/blog-green) [Mastering RAG: How to Select A Reranking Model](https://www.rungalileo.io/blog/mastering-rag-how-to-select-a-reranking-model)  
 
 ### UI Framewrok
-![](https://img.shields.io/badge/blog-green) [Streamlit](https://docs.streamlit.io/)  
-![](https://img.shields.io/badge/blog-green) [Gradio](https://www.gradio.app/docs)  
-![](https://img.shields.io/badge/blog-green) [ChainLit](https://docs.chainlit.io/get-started/overview)  
+![](https://img.shields.io/badge/github-blue) [Streamlit](https://docs.streamlit.io/)  
+![](https://img.shields.io/badge/github-blue) [Gradio](https://www.gradio.app/docs)  
+![](https://img.shields.io/badge/github-blue) [ChainLit](https://docs.chainlit.io/get-started/overview)  
