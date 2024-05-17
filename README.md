@@ -9,8 +9,8 @@
 
 ## RAG (Retrieval-Augmented Generation)
 ![](https://img.shields.io/badge/survey-orange) [Large Language Models for Information Retrieval: A Survey](https://arxiv.org/pdf/2308.07107)  
-  2023.08 - Zhuyu Tao - Renmin University of China
-![](https://img.shields.io/badge/blog-green) [Embedchain](https://github.com/embedchain/embedchain)
+  2023.08 - Zhuyu Tao - Renmin University of China  
+![](https://img.shields.io/badge/blog-green) [Embedchain](https://github.com/embedchain/embedchain)  
   
 ### Embedder
 ![](https://img.shields.io/badge/survey-orange) [A Comprehensive Survey of Sentence Representations: From the BERT Epoch to the ChatGPT Era and Beyond](https://arxiv.org/pdf/2305.12641)  
