@@ -7,6 +7,10 @@
 ![](https://img.shields.io/badge/github-blue) [Flair](https://github.com/flairNLP/flair)  
 ![](https://img.shields.io/badge/github-blue) [Sentence-Transformers](https://github.com/UKPLab/sentence-transformers)
 
+## Prompt Engineering
+![](https://img.shields.io/badge/blog-green) [我是如何赢得GPT-4提示工程大赛冠军的](https://www.jiqizhixin.com/articles/2024-05-14-4)  
+2023.12 - Sheila Teo  
+
 ## RAG (Retrieval-Augmented Generation)
 ![](https://img.shields.io/badge/survey-orange) [Large Language Models for Information Retrieval: A Survey](https://arxiv.org/pdf/2308.07107)  
   2023.08 - Zhuyu Tao - Renmin University of China  
