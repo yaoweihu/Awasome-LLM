@@ -20,7 +20,11 @@
 2023 - Embedchain is an Open Source Framework for personalizing LLM responses.  
 ![](https://img.shields.io/badge/blog-green) [Mastering RAG: How To Architect An Enterprise RAG System](https://www.rungalileo.io/blog/mastering-rag-how-to-architect-an-enterprise-rag-system)  
 2024.01 - Pratik Bhavsar - Galileo Labs  
-  
+
+### Preprocessing
+![](https://img.shields.io/badge/paper-pink) [Query Rewriting for Retrieval-Augmented Large Language Models](https://arxiv.org/pdf/2305.14283)  
+2023.05 - Xinbei Ma - Shanghai Jiao Tong University  
+
 ### Embedder
 ![](https://img.shields.io/badge/survey-orange) [A Comprehensive Survey of Sentence Representations: From the BERT Epoch to the ChatGPT Era and Beyond](https://arxiv.org/pdf/2305.12641)  
 2024.02 - Abhinav Ramesh Kashyap - ASUS Intelligent Cloud Services (AICS), Singapore  
