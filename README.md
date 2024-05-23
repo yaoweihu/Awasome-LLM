@@ -36,6 +36,8 @@
 ### Retriever
 ![](https://img.shields.io/badge/paper-pink) [SPLADE-v3: New baselines for SPLADE](https://arxiv.org/pdf/2403.06789)  
 2024.03 - Carlos Lassance - Cohere  
+![](https://img.shields.io/badge/paper-pink) [RAPTOR: Recursive Abstractive Processing for Tree-Organized Retrieval](https://arxiv.org/pdf/2401.18059)  
+2024.01 - Parth Sarthi - Stanford University  
 ![](https://img.shields.io/badge/blog-green)[详解预训练模型在信息检索第一阶段的应用](https://zhuanlan.zhihu.com/p/439363249)  
 2021.11 - 范意兴 - 中科院
 
