@@ -41,7 +41,7 @@
 ![](https://img.shields.io/badge/blog-green) [详解预训练模型在信息检索第一阶段的应用](https://zhuanlan.zhihu.com/p/439363249)  
 2021.11 - 范意兴 - 中科院  
 ![](https://img.shields.io/badge/github-blue) [RetroMAE](https://github.com/staoxiao/RetroMAE?tab=readme-ov-file)  
-2022.05 - Shitao Xiao - Beijing Academy of AI  
+2022.05 - Shitao Xiao - Beijing University of Posts and Telecommunications 
 
 ### Reranker
 ![](https://img.shields.io/badge/evaluation-yellow) [A Thorough Comparison of Cross-Encoders and LLMs for Reranking SPLADE](https://arxiv.org/pdf/2403.10407)  
