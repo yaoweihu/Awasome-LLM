@@ -8,8 +8,12 @@
 ![](https://img.shields.io/badge/github-blue) [Sentence-Transformers](https://github.com/UKPLab/sentence-transformers)
 
 ## Prompt Engineering
+![](https://img.shields.io/badge/blog-green) [提示工程（prompt engineering)：技术分类与提示词调优看这篇就够了](https://cloud.tencent.com/developer/article/2414263)  
+2024.04 - 山行AI  
 ![](https://img.shields.io/badge/blog-green) [我是如何赢得GPT-4提示工程大赛冠军的](https://www.jiqizhixin.com/articles/2024-05-14-4)  
 2023.12 - Sheila Teo  
+![](https://img.shields.io/badge/blog-green) [12种Prompt Engineering(提示工程)方法](https://zhuanlan.zhihu.com/p/675163821)  
+2023.12 - DC数字人才  
 
 ## RAG (Retrieval-Augmented Generation)
 ![](https://img.shields.io/badge/survey-orange) [Large Language Models for Information Retrieval: A Survey](https://arxiv.org/pdf/2308.07107)  
