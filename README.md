@@ -43,7 +43,7 @@
 ![](https://img.shields.io/badge/paper-pink) [RAPTOR: Recursive Abstractive Processing for Tree-Organized Retrieval](https://arxiv.org/pdf/2401.18059)  
 2024.01 - Parth Sarthi - Stanford University  
 ![](https://img.shields.io/badge/paper-pink) [Tevatron: An Efficient and Flexible Toolkit for Dense Retrieval](https://arxiv.org/pdf/2203.05765)  
-2022.03 - Luyu Gao - CMU  
+2022.03 - Luyu Gao - CMU - [github](https://texttron.github.io/tevatron/)  
 ![](https://img.shields.io/badge/blog-green) [详解预训练模型在信息检索第一阶段的应用](https://zhuanlan.zhihu.com/p/439363249)  
 2021.11 - 范意兴 - 中科院  
 ![](https://img.shields.io/badge/github-blue) [RetroMAE](https://github.com/staoxiao/RetroMAE?tab=readme-ov-file)  
