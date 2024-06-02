@@ -8,7 +8,7 @@
 ![](https://img.shields.io/badge/github-blue) [Sentence-Transformers](https://github.com/UKPLab/sentence-transformers)
 
 ## LLM
-[MAP-Neo: Highly Capable and Transparent Bilingual Large Language Model Series](https://map-neo.github.io/)  
+![](https://img.shields.io/badge/survey-orange) [MAP-Neo: Highly Capable and Transparent Bilingual Large Language Model Series](https://map-neo.github.io/)  
 2024.05 - Ge Zhang - M-A-P  
 
 ## Prompt Engineering
