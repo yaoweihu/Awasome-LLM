@@ -7,6 +7,10 @@
 ![](https://img.shields.io/badge/github-blue) [Flair](https://github.com/flairNLP/flair)  
 ![](https://img.shields.io/badge/github-blue) [Sentence-Transformers](https://github.com/UKPLab/sentence-transformers)
 
+## LLM
+[MAP-Neo: Highly Capable and Transparent Bilingual Large Language Model Series](https://map-neo.github.io/)  
+2024.05 - Ge Zhang - M-A-P  
+
 ## Prompt Engineering
 ![](https://img.shields.io/badge/blog-green) [提示工程（prompt engineering)：技术分类与提示词调优看这篇就够了](https://cloud.tencent.com/developer/article/2414263)  
 2024.04 - 山行AI  
