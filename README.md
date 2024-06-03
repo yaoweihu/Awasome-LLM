@@ -8,7 +8,9 @@
 ![](https://img.shields.io/badge/github-blue) [Sentence-Transformers](https://github.com/UKPLab/sentence-transformers)
 
 ## LLM
-![](https://img.shields.io/badge/survey-orange) [MAP-Neo: Highly Capable and Transparent Bilingual Large Language Model Series](https://map-neo.github.io/)  
+![](https://img.shields.io/badge/survey-orange) [Large Language Models: A Survey](https://www.arxiv.org/pdf/2402.06196)
+2024.02 - Shervin Minaee  
+![](https://img.shields.io/badge/paper-pink) [MAP-Neo: Highly Capable and Transparent Bilingual Large Language Model Series](https://map-neo.github.io/)  
 2024.05 - Ge Zhang - M-A-P  
 
 ### Components
