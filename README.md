@@ -11,6 +11,12 @@
 ![](https://img.shields.io/badge/survey-orange) [MAP-Neo: Highly Capable and Transparent Bilingual Large Language Model Series](https://map-neo.github.io/)  
 2024.05 - Ge Zhang - M-A-P  
 
+### Components
+![](https://img.shields.io/badge/paper-pink)  [Contextual Position Encoding: Learning to Count What’s Important](https://arXiv:2405.18719v2)  
+2024.05 - Olga Golovneva - FAIR at Meta  
+
+
+
 ## Prompt Engineering
 ![](https://img.shields.io/badge/blog-green) [提示工程（prompt engineering)：技术分类与提示词调优看这篇就够了](https://cloud.tencent.com/developer/article/2414263)  
 2024.04 - 山行AI  
