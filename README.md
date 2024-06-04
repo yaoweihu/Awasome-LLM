@@ -12,6 +12,8 @@
 2024.02 - Shervin Minaee  
 ![](https://img.shields.io/badge/paper-pink) [MAP-Neo: Highly Capable and Transparent Bilingual Large Language Model Series](https://map-neo.github.io/)  
 2024.05 - Ge Zhang - M-A-P  
+(![](https://img.shields.io/badge/github-blue)) [LLMs From Scratch: Hands-on Building Your Own Large Language Models](https://github.com/datawhalechina/llms-from-scratch-cn)  
+2024.01 - Kewei Chen  
 
 ### Components
 ![](https://img.shields.io/badge/paper-pink)  [Contextual Position Encoding: Learning to Count What’s Important](https://arXiv:2405.18719v2)  
