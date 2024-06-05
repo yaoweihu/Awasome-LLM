@@ -5,6 +5,8 @@
 - [General NLP Packages](#general-nlp-packages)
 - [LLM](#llm)
 - [Prompt Engineering](#prompt-engineering)
+- [RAG](#rag)
+- [Search](#search)
 
 ## General NLP Packages
 ![](https://img.shields.io/badge/github-blue) [SpaCy](https://spacy.io/)  
