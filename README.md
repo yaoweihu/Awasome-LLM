@@ -90,3 +90,6 @@ A repo includes unified codes for rerankers.
 ### GNN
 ![](https://img.shields.io/badge/paper-pink) [GNN-RAG: Graph Neural Retrieval for Large Language Model Reasoning](https://arxiv.org/pdf/2405.20139)  
 2024.05 - Costas Mavromatis - University of Minnesota  
+
+## Good Github
+[Perplexica - An AI-powered search engine](https://github.com/ItzCrazyKns/Perplexica/tree/master)  
