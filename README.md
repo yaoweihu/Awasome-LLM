@@ -5,7 +5,7 @@
 - [General NLP Packages](#general-nlp-packages)
 - [LLM](#llm)
 - [Prompt Engineering](#prompt-engineering)
-- [RAG](#rag-(retrieval-augmented-generation))
+- [RAG](#rag)
 - [Search](#search)
 
 ## General NLP Packages
@@ -37,7 +37,7 @@
 ![](https://img.shields.io/badge/blog-green) [12种Prompt Engineering(提示工程)方法](https://zhuanlan.zhihu.com/p/675163821)  
 2023.12 - DC数字人才  
 
-## RAG (Retrieval-Augmented Generation)
+## RAG
 ![](https://img.shields.io/badge/survey-orange) [Large Language Models for Information Retrieval: A Survey](https://arxiv.org/pdf/2308.07107)  
 2023.08 - Zhuyu Tao - Renmin University of China  
 ![](https://img.shields.io/badge/survey-orange) [A Survey on RAG Meets LLMs: Towards Retrieval-Augmented Large Language Models](https://arxiv.org/pdf/2405.06211)  
