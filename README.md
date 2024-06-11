@@ -42,6 +42,8 @@
 2023.08 - Zhuyu Tao - Renmin University of China  
 ![](https://img.shields.io/badge/survey-orange) [A Survey on RAG Meets LLMs: Towards Retrieval-Augmented Large Language Models](https://arxiv.org/pdf/2405.06211)  
 2024.05 - Yujuan Ding - The Hong Kong Polytechnic University  
+![](https://img.shields.io/badge/paper-pink) [CRAG - Comprehensive RAG Benchmark](https://arxiv.org/pdf/2406.04744)  
+2024.06 - Xiao Yang - Meta  
 ![](https://img.shields.io/badge/github-blue) [Embedchain](https://github.com/embedchain/embedchain) - 2023  
 2023 - Embedchain is an Open Source Framework for personalizing LLM responses.  
 ![](https://img.shields.io/badge/blog-green) [Mastering RAG: How To Architect An Enterprise RAG System](https://www.rungalileo.io/blog/mastering-rag-how-to-architect-an-enterprise-rag-system)  
