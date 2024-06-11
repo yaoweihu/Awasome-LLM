@@ -5,7 +5,7 @@
 - [General NLP Packages](#general-nlp-packages)
 - [LLM](#llm)
 - [Prompt Engineering](#prompt-engineering)
-- [RAG](#rag (retrieval-augmented-generation))
+- [RAG](#rag-(retrieval-augmented-generation))
 - [Search](#search)
 
 ## General NLP Packages
