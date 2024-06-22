@@ -22,6 +22,8 @@
 2024.05 - Ge Zhang - M-A-P  
 ![](https://img.shields.io/badge/github-blue) [LLMs From Scratch: Hands-on Building Your Own Large Language Models](https://github.com/datawhalechina/llms-from-scratch-cn)  
 2024.01 - Kewei Chen  
+![](https://img.shields.io/badge/github-blue) [LLM 101n](https://github.com/karpathy/LLM101n)  
+2024.06 - Andrej Karpathy  
 
 ### Components
 ![](https://img.shields.io/badge/paper-pink)  [Contextual Position Encoding: Learning to Count What’s Important](https://arXiv:2405.18719v2)  
