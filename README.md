@@ -58,6 +58,8 @@
 ### Embedder
 ![](https://img.shields.io/badge/survey-orange) [A Comprehensive Survey of Sentence Representations: From the BERT Epoch to the ChatGPT Era and Beyond](https://arxiv.org/pdf/2305.12641)  
 2024.02 - Abhinav Ramesh Kashyap - ASUS Intelligent Cloud Services (AICS), Singapore  
+![](https://img.shields.io/badge/paper-pink) [NV-Embed: Improved Techniques for Training LLMs as Generalist Embedding Models](https://arxiv.org/pdf/2405.17428v1)  
+2024.05 - Chankyu Lee - NVIDIA  
 ![](https://img.shields.io/badge/paper-pink) [C-Pack: Packed Resources For General Chinese Embeddings](https://arxiv.org/pdf/2309.07597)  
 2023.09 - Shitao Xiao - Beijing Academy of AI  
 ![](https://img.shields.io/badge/paper-pink) [Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks](https://arxiv.org/pdf/1908.10084)  
