@@ -4,7 +4,7 @@
 
 - [General NLP Packages](#general-nlp-packages)
 - [LLM](#llm)
-- [LLM Inference](#llm-inference)  
+- [LLM Inference](#inference-for-llms)  
 - [Prompt Engineering](#prompt-engineering)
 - [RAG](#rag)
 - [Search](#search)
@@ -31,7 +31,7 @@
 2024.05 - Olga Golovneva - FAIR at Meta 
 
 
-## LLM Inference
+## Inference for LLMs
 ![](https://img.shields.io/badge/survey-orange) [A Survey on Efficient Inference for Large Language Models](https://www.arxiv.org/pdf/2402.06196)  
 2024.04 - Zhixuan Zhou - Tsinghua University  
 
