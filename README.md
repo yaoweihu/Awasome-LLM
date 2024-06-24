@@ -3,8 +3,8 @@
 ## Content
 
 - [General NLP Packages](#general-nlp-packages)
-- [LLM](#llm)
-- [LLM Inference](#inference-for-llms)  
+- [LLMs](#llms)
+- [Inference for LLMs](#inference-for-llms)  
 - [Prompt Engineering](#prompt-engineering)
 - [RAG](#rag)
 - [Search](#search)
@@ -16,7 +16,7 @@
 ![](https://img.shields.io/badge/github-blue) [Flair](https://github.com/flairNLP/flair)  
 ![](https://img.shields.io/badge/github-blue) [Sentence-Transformers](https://github.com/UKPLab/sentence-transformers)
 
-## LLM
+## LLMs
 ![](https://img.shields.io/badge/survey-orange) [Large Language Models: A Survey](https://www.arxiv.org/pdf/2402.06196)  
 2024.02 - Shervin Minaee  
 ![](https://img.shields.io/badge/paper-pink) [MAP-Neo: Highly Capable and Transparent Bilingual Large Language Model Series](https://map-neo.github.io/)  
