@@ -4,6 +4,7 @@
 
 - [General NLP Packages](#general-nlp-packages)
 - [LLM](#llm)
+- [LLM Inference](#llm-inference)  
 - [Prompt Engineering](#prompt-engineering)
 - [RAG](#rag)
 - [Search](#search)
@@ -25,10 +26,14 @@
 ![](https://img.shields.io/badge/github-blue) [LLM 101n](https://github.com/karpathy/LLM101n)  
 2024.06 - Andrej Karpathy  
 
-### Components
-![](https://img.shields.io/badge/paper-pink)  [Contextual Position Encoding: Learning to Count What’s Important](https://arXiv:2405.18719v2)  
-2024.05 - Olga Golovneva - FAIR at Meta  
+### Positional Embedding
+![](https://img.shields.io/badge/paper-pink)  [Contextual Position Encoding: Learning to Count What’s Important](https://arxiv.org/pdf/2404.14294)  
+2024.05 - Olga Golovneva - FAIR at Meta 
 
+
+## LLM Inference
+![](https://img.shields.io/badge/survey-orange) [A Survey on Efficient Inference for Large Language Models](https://www.arxiv.org/pdf/2402.06196)  
+2024.04 - Zhixuan Zhou - Tsinghua University  
 
 
 ## Prompt Engineering
