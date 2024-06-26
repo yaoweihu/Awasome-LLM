@@ -52,7 +52,7 @@
 ![](https://img.shields.io/badge/paper-pink) [CRAG - Comprehensive RAG Benchmark](https://arxiv.org/pdf/2406.04744)  
 2024.06 - Xiao Yang - Meta  
 ![](https://img.shields.io/badge/github-blue) [Haystack](https://github.com/deepset-ai/haystack)  
-2024 - Haystack is an end-to-end LLM framework that allows you to build applications powered by LLMs, Transformer models, vector search and more.  
+2024 - Haystack is an end-to-end LLM framework that allows you to build applications powered by LLMs.  
 ![](https://img.shields.io/badge/github-blue) [Embedchain](https://github.com/embedchain/embedchain)  
 2023 - Embedchain is an Open Source Framework for personalizing LLM responses.  
 ![](https://img.shields.io/badge/blog-green) [Mastering RAG: How To Architect An Enterprise RAG System](https://www.rungalileo.io/blog/mastering-rag-how-to-architect-an-enterprise-rag-system)  
