@@ -1,4 +1,4 @@
-# NLP-Resource
+# Awasome-LLM
 
 ## Content
 
