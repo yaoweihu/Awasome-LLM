@@ -25,6 +25,8 @@
 2024.01 - Kewei Chen  
 ![](https://img.shields.io/badge/github-blue) [LLM 101n](https://github.com/karpathy/LLM101n)  
 2024.06 - Andrej Karpathy  
+![](https://img.shields.io/badge/course-black)[CS336: Language Modeling from Scratch](https://stanford-cs336.github.io/spring2024/index.html#coursework)  
+2024 Spring - Tatsunori Hashimoto, Percy Liang - Stanford University  
 
 ### Positional Embedding
 ![](https://img.shields.io/badge/paper-pink)  [Contextual Position Encoding: Learning to Count What’s Important](https://arxiv.org/pdf/2404.14294)  
