@@ -51,6 +51,8 @@
 2023.08 - Zhuyu Tao - Renmin University of China  
 ![](https://img.shields.io/badge/survey-orange) [A Survey on RAG Meets LLMs: Towards Retrieval-Augmented Large Language Models](https://arxiv.org/pdf/2405.06211)  
 2024.05 - Yujuan Ding - The Hong Kong Polytechnic University  
+![](https://img.shields.io/badge/paper-pink) [Searching for Best Practices in Retrieval-Augmented Generation](https://arxiv.org/pdf/2407.01219v1)  
+2024.07 - Xiaohua Wang - Fudan University  
 ![](https://img.shields.io/badge/paper-pink) [CRAG - Comprehensive RAG Benchmark](https://arxiv.org/pdf/2406.04744)  
 2024.06 - Xiao Yang - Meta  
 ![](https://img.shields.io/badge/github-blue) [Haystack](https://github.com/deepset-ai/haystack)  
