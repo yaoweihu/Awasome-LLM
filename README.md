@@ -1,4 +1,4 @@
-# Awasome-LLM
+# Awesome-LLM
 
 ## Content
 
